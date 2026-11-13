@@ -1,0 +1,8 @@
+streamlit>=1.40
+numpy>=1.26
+Pillow>=10.0
+matplotlib>=3.8
+pandas>=2.0
+pytest>=8.0
+# Keep your existing CUDA-enabled torch/torchvision installation.
+# Install/upgrade them separately only via the official PyTorch selector.
